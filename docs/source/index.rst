@@ -1,5 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to DSSG JUMPSTART documentation!
 ===================================
+
+EDIT: THIS IS A TEST LINE ADDED WHILE PREPPING FOR THE DEMO
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
@@ -20,3 +22,5 @@ Contents
 
    usage
    api
+
+Let see what displays here!!
